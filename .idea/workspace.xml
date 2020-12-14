@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64be1534-9279-4dd7-bd87-dd7cd2940e2b" name="Default Changelist" comment="" />
+    <list default="true" id="64be1534-9279-4dd7-bd87-dd7cd2940e2b" name="Default Changelist" comment="Default Changelist">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/index.ts" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1k2zhNUGVyeNeHsltAzmEm6WD5w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,7 +37,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters.JSHint" />
-    <property name="ts.external.directory.path" value="C:\Users\Juli\Dropbox\Studium\Vertiefungsphase\Webbasierte System 2\1\promise-chains\promise-chains\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\Juli\Dropbox\Programme\WebstormProjects\Promise\promise-chains\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="npm.start">
@@ -68,7 +74,17 @@
       <workItem from="1605223357356" duration="596000" />
       <workItem from="1605281770858" duration="2655000" />
       <workItem from="1606905613989" duration="14000" />
+      <workItem from="1606906642838" duration="165000" />
+      <workItem from="1606995786093" duration="670000" />
     </task>
+    <task id="LOCAL-00001" summary="Default Changelist">
+      <created>1606906722566</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606906722566</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +94,10 @@
         <option value="$PROJECT_DIR$/index.js" />
       </list>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
   </component>
   <component name="WindowStateProjectService">
     <state x="994" y="478" key="#TSLint" timestamp="1604920573956">
@@ -94,6 +114,14 @@
     <state x="621" y="320" key="FileChooserDialogImpl/0.0.1500.960@0.0.1500.960" timestamp="1605222517040" />
     <state x="1060" y="466" key="FileChooserDialogImpl/2560.-564.1500.980/0.0.2560.1400@0.0.2560.1400" timestamp="1605282270657" />
     <state x="3181" y="-238" key="FileChooserDialogImpl/2560.-564.1500.980/0.0.2560.1400@2560.-564.1500.980" timestamp="1605283510364" />
+    <state x="1144" y="597" key="Github.ShareDialog" timestamp="1606906666090">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1144" y="597" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1606906666090" />
+    <state x="988" y="397" key="Github.UntrackedFilesDialog" timestamp="1606906676531">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="988" y="397" key="Github.UntrackedFilesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1606906676531" />
     <state width="1258" height="494" key="GridCell.Tab.0.bottom" timestamp="1605181918927">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -166,5 +194,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="781" y="344" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1604922251318" />
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2" timestamp="1606906724369">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1606906724369" />
   </component>
 </project>
